@@ -15,4 +15,4 @@ Log processor for nginx or apache that extracts user and user sessions and calcu
 
 ## Database model
 
-[](https://imgur.com/gallery/j1xi9y3)
+[Database model](https://imgur.com/gallery/j1xi9y3)
